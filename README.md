@@ -8,7 +8,7 @@ I'm Vrinda Tyagi, a self-taught Software Engineer.
 >>>>>>> 6e7139119bd93d99154591e1fa7f8f28d4c8cd28
 
 
-Hi, I'm Vrinda Tyagi, a self-taught Software Engineer.![visitors](https://visitor-badge.glitch.me/badge?page_id=vrindatyagi.VrindaTyagi)
+Hi, I'm Vrinda Tyagi, a self-taught Software Engineer.
 
 <br />
 
