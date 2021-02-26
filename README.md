@@ -1,4 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<<<<<<< HEAD
+=======
+
+I'm Vrinda Tyagi, a self-taught Software Engineer.
+
+<br />
+>>>>>>> 6e7139119bd93d99154591e1fa7f8f28d4c8cd28
 
 
 Hi, I'm Vrinda Tyagi, a self-taught Software Engineer.![visitors](https://visitor-badge.glitch.me/badge?page_id=vrindatyagi.VrindaTyagi)
@@ -24,7 +31,11 @@ Hi, I'm Vrinda Tyagi, a self-taught Software Engineer.![visitors](https://visito
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<<<<<<< HEAD
 </p>
+=======
+
+>>>>>>> 6e7139119bd93d99154591e1fa7f8f28d4c8cd28
 <br />
 <br />
 
