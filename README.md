@@ -1,11 +1,4 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<<<<<<< HEAD
-=======
-
-I'm Vrinda Tyagi, a self-taught Software Engineer.
-
-<br />
->>>>>>> 6e7139119bd93d99154591e1fa7f8f28d4c8cd28
 
 
 Hi, I'm Vrinda Tyagi, a self-taught Software Engineer.
@@ -16,10 +9,12 @@ Hi, I'm Vrinda Tyagi, a self-taught Software Engineer.
   
 **More About Myself:**
 
-👨🏽‍💻 I’m working on cool projects 
-🌱 Currently looking for internship oppurtunities
-🥅 2021 Goals: Contribute more to Open Source projects
-🛠 Getting myself into Native React. Trying out [Next.js](https://nextjs.org/) in my spare time. 
+<p>👨🏽‍💻 I’m working on cool projects </p>
+<p>🌱 Currently looking for internship oppurtunities</p>
+<p>🥅 2021 Goals: Contribute more to Open Source projects</p>
+<p>🛠 Getting myself into Native React. Trying out [Next.js](https://nextjs.org/) in my spare time. </p>
+
+<br />
 
 **Languages and Tools:**
 <p>
@@ -31,12 +26,8 @@ Hi, I'm Vrinda Tyagi, a self-taught Software Engineer.
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<<<<<<< HEAD
 </p>
-=======
 
->>>>>>> 6e7139119bd93d99154591e1fa7f8f28d4c8cd28
-<br />
 <br />
 
 ### Connect with me:
