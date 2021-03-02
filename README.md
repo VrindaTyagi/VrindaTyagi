@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Vrinda, a self-taught Software Engineer.
+I'm V, let's talk about sky aesthetics together.
 
 <br />
 
@@ -11,7 +11,7 @@ I'm Vrinda, a self-taught Software Engineer.
 <p>👨🏽‍💻 I’m working on cool projects </p>
 <p>🌱 Currently looking for internship oppurtunities</p>
 <p>🥅 2021 Goals: Contribute more to Open Source projects</p>
-<p>🛠 Getting myself into Native React. Trying out Next.js in my spare time. </p>
+<p>🛠 Getting myself into React Native. Trying out Next.js in my spare time. </p>
 
 <br />
 
@@ -42,5 +42,6 @@ I'm Vrinda, a self-taught Software Engineer.
 <a href="https://t.me/Ashxx9">
   <img align="left" alt="My Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=VrindaTyagi.VrindaTyagi)
 
 
