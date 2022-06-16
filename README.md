@@ -11,7 +11,7 @@ I'm Vrinda, let's talk about sky aesthetics together.
 <p>👨🏽‍💻 I’m working on meaningful projects </p>
 <p>🌱 Currently looking for entry level oppurtunities</p>
 <p>🥅 2022 Goals: Contribute more to Open Source projects</p>
-<p>🛠 Getting myself into Next and learning about UI/UX.</p>
+<p>🛠 Getting myself into NextJS and learning about UI/UX.</p>
 
 <br />
 
