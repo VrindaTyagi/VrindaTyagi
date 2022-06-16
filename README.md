@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm V, let's talk about sky aesthetics together.
+I'm Vrinda, let's talk about sky aesthetics together.
 
 <br />
 
@@ -9,9 +9,9 @@ I'm V, let's talk about sky aesthetics together.
 **More About Myself:**
 
 <p>👨🏽‍💻 I’m working on meaningful projects </p>
-<p>🌱 Currently looking for internship oppurtunities</p>
-<p>🥅 2021 Goals: Contribute more to Open Source projects</p>
-<p>🛠 Getting myself into React Native. Trying out Next.js in my spare time. </p>
+<p>🌱 Currently looking for entry level oppurtunities</p>
+<p>🥅 2022 Goals: Contribute more to Open Source projects</p>
+<p>🛠 Getting myself into Next and learning about UI/UX.</p>
 
 <br />
 
